@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/lesson_06.dir/lesson_06.cpp.o CMakeFiles/lesson_06.dir/tool.cpp.o  -o lesson_06 -Wl,-rpath,/home/zhangbinggang/3rdparty/OpenCV3/lib /home/zhangbinggang/3rdparty/OpenCV3/lib/libopencv_world.so 

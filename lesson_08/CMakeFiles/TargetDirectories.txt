@@ -1,0 +1,3 @@
+/home/zhangbinggang/workspace/personal_github/HappyLearningML/LearningOpenCV4/lesson_08/CMakeFiles/rebuild_cache.dir
+/home/zhangbinggang/workspace/personal_github/HappyLearningML/LearningOpenCV4/lesson_08/CMakeFiles/lesson_08.dir
+/home/zhangbinggang/workspace/personal_github/HappyLearningML/LearningOpenCV4/lesson_08/CMakeFiles/edit_cache.dir
